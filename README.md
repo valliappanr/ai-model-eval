@@ -8,8 +8,13 @@ Given an image of airline performance of late arrival from a website and see how
 
 ## Filter by Late arrival percentage
 
-![Alt text]([https://github.com/valliappanr/ai-model-eval/blob/main/filter-by-numbers.jpg](https://github.com/valliappanr/ai-model-eval/blob/main/filter-by-numbers.jpg)) "Filter by later arrival")
+![Filter by later arrival](https://github.com/valliappanr/ai-model-eval/blob/main/filter-by-numbers.jpg "Filter by later arrival")
 
 ## Filter by airline names
 
-![Alt text]([https://github.com/valliappanr/ai-model-eval/blob/main/filter-by-names.png](https://github.com/valliappanr/ai-model-eval/blob/main/filter-by-names.png])) "Filter by names")
+![Filter by names](https://github.com/valliappanr/ai-model-eval/blob/main/filter-by-names.png "Filter by names")
+
+## Check for Invalid names
+
+![Invalid Name](https://github.com/valliappanr/ai-model-eval/blob/main/invalid-names.png "Invalid Name")
+
