@@ -4,7 +4,7 @@
 
 Given an image of airline performance of late arrival from a website and see how the data is interpreted from the image
 
-![Alt text]([https://github.com/valliappanr/ai-model-eval/blob/main/interpret-image.jpg](https://github.com/valliappanr/ai-model-eval/blob/main/interpret-image.jpg) "Interpret data from image")
+![Interpret data from image](https://github.com/valliappanr/ai-model-eval/blob/main/interpret-image.jpg "Interpret Data")
 
 ## Filter by Late arrival percentage
 
